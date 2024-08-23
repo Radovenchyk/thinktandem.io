@@ -8,7 +8,7 @@ All the hacked up Kalastatic magic for [http://v2.thinktandem.io](http://www.thi
 Workflow
 --------
 
-The Tandem [dev workflow](https://docs.thinktandem.io/coding/dev-workflow.html) is dogfooded for this repository as well. No sense in repeating it here!
+The Tandem [dev workflow](https://docs.thinktandem.io/) is dogfooded for this repository as well. No sense in repeating it here!
 
 Development
 -----------
